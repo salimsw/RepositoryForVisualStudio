@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is first application with with git hub.";
 
             return View();
         }
